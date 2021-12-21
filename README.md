@@ -1,2 +1,4 @@
 # CPP42
-42 project (8 days)
+
+good reference to begin<br>
+https://learncpp.com/<br>
